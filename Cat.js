@@ -3,3 +3,6 @@ function Cat() {
     
 }
 modul.export = Cat;
+class a{
+    
+}
