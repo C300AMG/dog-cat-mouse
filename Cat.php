@@ -1,3 +1,5 @@
 class a {
-    echo "hello cat";
+    echo "hello dog";
+    echo "hello dog";
+
 }
